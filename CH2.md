@@ -90,6 +90,6 @@ f3PArrowTiltUpAngle = 0.7
 bEnableFileSelection = 1
 ```
 
-`[Actor]` 是修改射擊距離 (這個設定已超過肉視距離)
-`[Combat]` 是修改準度(設定 `0.7` 後只需瞄準心的正中間，不需在計算拋物線)
-`bEnableFileSelection` 是讓`載入 MOD `可以點選
+* `[Actor]` 是修改射擊距離 (這個設定已超過肉視距離)
+* `[Combat]` 是修改準度 (設定 `0.7` 後只需瞄準心的正中間，不需在計算拋物線)
+* `bEnableFileSelection` 是讓 `載入 MOD` 可以點選。
