@@ -8,5 +8,4 @@
 * [道具](CH5.md)
 * [NPC 指令](CH6.md)
 * [NPC 代碼](CH7.md)
-* [地區](CH8.md)
 
