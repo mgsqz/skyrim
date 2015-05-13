@@ -7,6 +7,9 @@
 
 指令|效果
 ---|--- 
+player.sexchange | 變性
+player.advlevel | 立刻升級
+player.getlevel | 查看指定目標的等級
 player.forceav health # | 增加生命上限
 player.forceav stamina # | 增加耐力上限
 player.forceav magicka # | 增加魔法上限
@@ -59,9 +62,6 @@ player.setav shoutRecoveryMult 0  | 龍吼無 CD
 player.setCrimeGold 0 | 清掉自己頭上的賞金。要注意的是如果正被守衛追趕，則必須離開城市再回來指令才會生效。
 player.payFine | 守衛停止攻擊，你頭上的賞金清除。可能會當機。
 player.addShout xxxxx | 增加龍吼技能
-player.sexchange | 變性
-player.advlevel | 立刻升級
-player.getlevel | 查看指定目標的等級
 
 ## 強化法術效果
 
