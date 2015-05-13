@@ -11,11 +11,6 @@
 指令|效果
 ---|--- 
 showracemenu | 調出改變種族窗口
-setscale # | 身高調整，標準身高 `1.00` (要先點選角色)
-resurrect | 復活
-kill | 殺死目標 
-removeallitems | 卸除目標裝備
-unlock | 開鎖
 tmm 1 | 地圖全開
 tgm | 無敵
 tcl | 穿牆
