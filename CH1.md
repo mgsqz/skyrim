@@ -36,4 +36,4 @@ coc xxxxxxx | 傳送到代號為 `xxxxxxx` 的地區
 riverwood | 河木鎮
 qasmoke | 一個擁有所有遊戲物品及所有製造器具的房間
 
-其他區域請參考[](http://www.skyrimsearch.com/categories/cells/)
+其他區域請參考[Skyrim Search - Cells](http://www.skyrimsearch.com/categories/cells/)
