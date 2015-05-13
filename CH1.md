@@ -21,11 +21,11 @@ showracemenu | 改變玩家人物的種族與造型
 
 指令|效果
 ---|--- 
-setscale # | 身高調整，標準身高 `1.00`
-resurrect | 復活
+setscale # | 對目標做身高調整，標準身高 `1.00`
+resurrect | 復活目標 
 kill | 殺死目標 
 removeallitems | 卸除目標裝備
-unlock | 開鎖
+unlock | 解鎖目標 (門或寶箱)
 
 ## 傳送
 
