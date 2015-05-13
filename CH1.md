@@ -25,4 +25,18 @@ sexchange | 變性
 advlevel | 立刻升級
 getlevel | 查看指定目標的等級
 set timescale to # | 將遊戲時間設為真實時間的 `#` 倍。預設為 `30` 倍，建議設為 `1` - `5` ，遊戲時間流逝的速度和現實接近更有代入感
-coc qasmoke | 會把你傳去一個擁有所有遊戲物品 所有製造器具的房間。挑完後再用 `coc riverwood` 傳送命令出來
+
+## 傳送
+
+指令 | 效果
+---|---
+coc xxxxxxx | 傳送到代號為 `xxxxxxx` 的地區
+
+## 常用區域
+
+代碼|說明
+---|---
+riverwood | 河木鎮
+qasmoke | 一個擁有所有遊戲物品及所有製造器具的房間
+
+其他區域請參考[](http://www.skyrimsearch.com/categories/cells/)
